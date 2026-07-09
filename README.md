@@ -1,4 +1,6 @@
-﻿# Knowledge Base
+# Knowledge Base
+
+Nhung thu da hoc va thay thu vi, duoc tong hop thanh cac ghi chu truc quan ve an toan thong tin.
 
 A visual knowledge base for core cybersecurity topics. This repository collects concise diagram-style notes as PNG images, grouped by subject for quick review and reference.
 
@@ -21,16 +23,16 @@ A visual knowledge base for core cybersecurity topics. This repository collects 
 
 ```text
 knowledge/
-├── access_control/
-├── asymmetric_encryption/
-├── authentication/
-├── buffer_overflow/
-├── database_sec/
-├── os_security/
-├── taxonomy_of_malware/
-├── firewall&IDS.png
-├── IDS.png
-└── symmetric_encryption.png
+|-- access_control/
+|-- asymmetric_encryption/
+|-- authentication/
+|-- buffer_overflow/
+|-- database_sec/
+|-- os_security/
+|-- taxonomy_of_malware/
+|-- firewall&IDS.png
+|-- IDS.png
+`-- symmetric_encryption.png
 ```
 
 ## How to Use
